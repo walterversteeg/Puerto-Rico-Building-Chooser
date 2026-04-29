@@ -1,0 +1,15 @@
+{
+  "name": "Puerto Rico Randomizer",
+  "short_name": "PR Random",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2b1d0e",
+  "theme_color": "#2b1d0e",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3406/3406828.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

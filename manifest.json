@@ -1,6 +1,6 @@
 {
-  "name": "Puerto Rico Randomizer",
-  "short_name": "PR Random",
+  "name": "Puerto Rico Building Chooser",
+  "short_name": "PR Buildings",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2b1d0e",
